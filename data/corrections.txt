@@ -186,7 +186,7 @@ are combined into one
 	
 corrections:
 
-test_sample/labels.json:
+test_public/labels.json:
 WARNING
 auto-deleted by antivirus program
 REMOVED FROM labels.json
