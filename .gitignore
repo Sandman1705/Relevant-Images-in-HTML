@@ -5,4 +5,10 @@
 *.out
 *.synctex.gz
 *.toc
-
+data/train/*
+data/test_public/*
+data/sample/*
+!data/train/labels.json
+!data/test_public/labels.json
+!data/sample/labels.json
+src/__pycache__/
