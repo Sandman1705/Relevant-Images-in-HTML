@@ -6,7 +6,7 @@ Problem: Determining Relevant Images From HTML Source
 
 Since this project was done years after the Diffbot challenge ended the author did not focus on representing the output of data in the way that could be submitted (which cannot be done anymore). Instead the focus is on finding the best possible model as well as generating data that can be interpreted for later use.
 
-## Usage:
+## Requirements:
 
 This project was written entirely in Python (Python 3). The following python libraries were used:
 + [bs4 - Beautiful Soup 4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
