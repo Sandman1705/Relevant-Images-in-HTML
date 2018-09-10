@@ -26,12 +26,12 @@ As well as some other more common ones:
 
 ## Project structure:
 
-+ **src** directory contains python modules for extracting and preprocessing data as well as functions for training and evaluating models
-+ **scripts** directory contains multiple short scripts for running various tasks
++ **src/** directory contains python modules for extracting and preprocessing data as well as functions for training and evaluating models
++ **scripts/** directory contains multiple short scripts for running various tasks
 	- Note: before running any *extract data* script make sure to unpack data from data/all_data.zip into proper directories under /data/. See [scripts/README.md](../blob/master/scripts/README.md) for more info.
-+ **data** directory contains all data sets given by Diffbot (see [data/README.md](../blob/master/data/README.md) for more info)
-+ **results** directory contains CSV files produced by scripts that test models on train data (provided as backup for reference in order to avoid long runtime on train data set)
-+ **doc** directory contains PDF documentation (written in serbian since this was a student project for a faculty course)
++ **data/** directory contains all data sets given by Diffbot (see [data/README.md](../blob/master/data/README.md) for more info)
++ **results/** directory contains CSV files produced by scripts that test models on train data (provided as backup for reference in order to avoid long runtime on train data set)
++ **doc/** directory contains PDF documentation (written in serbian since this was a student project for a faculty course)
 
 
 ## Other info:
