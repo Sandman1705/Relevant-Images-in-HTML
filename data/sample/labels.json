@@ -1,0 +1,52 @@
+[
+    {
+        "url": "http://arstechnica.com/gadgets/2012/12/the-ultimate-smartphone-guide-part-ii-being-entertained-and-going-social/", 
+        "xpath": "/html/body/div[1]/section/article/section[1]/div[1]//img", 
+        "id": "1E273C3EFAD61AF89A37F8403B84EFD4"
+    }, 
+    {
+        "url": "http://www.texasmonthly.com/2012-12-01/feature5.php", 
+        "xpath": "//*[@id=\"story\"]/div[2]/img", 
+        "id": "9B919C23D10644F99C0313A41316E90E"
+    }, 
+    {
+        "url": "http://www.anandtech.com/show/6506/msi-fm2a85xag65-review-know-your-platform", 
+        "xpath": "/html/body/div[1]/div[2]/div/div[2]/div[1]/div[2]/div/div//a/img", 
+        "id": "60D9DFB17FC8BDBB3DE0A14AED009CE6"
+    }, 
+    {
+        "url": "http://www.slate.com/articles/technology/holidays/2012/12/parrot_ar_drone_2_0_quadricopter_and_air_hogs_battle_tracker_reviews_of.html", 
+        "xpath": "//*[@class=\"sl-art-illo-cntr\"]/img", 
+        "id": "C7602768A214451D3D91346FED37176B"
+    }, 
+    {
+        "url": "http://www.nytimes.com/2012/12/22/us/politics/next-move-is-obamas-after-boehners-tax-plan-fails.html", 
+        "xpath": "//*[@id=\"article\"]/div[1]/div[1]/span/img", 
+        "id": "60B4471E1FB1E8E0D266D97071669CCB"
+    }, 
+    {
+        "url": "http://www.shape.com/weight-loss/weight-loss-strategies/ask-diet-doctor-how-can-shift-workers-lose-weight", 
+        "xpath": "//*[@id=\"node-19456\"]/div/div[3]/div/img", 
+        "id": "9CB3BC4BFBF9D8305833B25630F759A0"
+    }, 
+    {
+        "url": "http://www.shape.com/blogs/shape-your-life/new-year%E2%80%99s-eve-beauty-wear-glitter", 
+        "xpath": "//*[@id=\"node-19479\"]/div[3]/div/div[1]/img", 
+        "id": "42AA61C7CCFA95DC4DB4D894530DEF8A"
+    }, 
+    {
+        "url": "http://gigaom.com/2013/03/13/chris-wetherll-google-reader/", 
+        "xpath": "//*[@id=\"post-620405\"]//a/img | //*[@id=\"post-620405\"]/section[1]/div[1]/div/div/img", 
+        "id": "FA066C9A46F742E4CFB779BA760FC5DD"
+    }, 
+    {
+        "url": "http://www.thecmuwebsite.com/article/new-copyright-rules-in-spain-will-target-advertisers-on-piracy-sites/", 
+        "xpath": "//*[@id=\"mainBody\"]/div/div[1]/div[1]/div/p[1]/a/img", 
+        "id": "471987BB07F93F6D79ABDB6369BD99AD"
+    }, 
+    {
+        "url": "http://www.latimes.com/news/local/la-me-pot-measures-20130422,0,2113230.story", 
+        "xpath": "//*[@id=\"story-body\"]/div[2]/div/table/tbody/tr/td/img", 
+        "id": "7B6773FBFEAA7C221421645CB1EFACF6"
+    }
+]

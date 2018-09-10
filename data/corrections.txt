@@ -1,0 +1,196 @@
+corrections:
+
+train/labels.json:
+
+for file id 87AC16090AFBB27BF6982EA983654181
+changed xpath from:
+//*[@id=\"container-content\"]/article/div/div[1]
+to
+//*[@id=\"container-content\"]/article/div/div[1]/img
+
+
+for file id 5137864F3CB6F96DBF4F5E3733015A2E
+changed xpath from:
+//*[@id=\"container-content\"]/article/div/div[2]
+to
+//*[@id=\"container-content\"]/article/div/div[2]/img
+
+
+for file id C325142931D8BCC24EDC5733A28990F1
+changed xpath from:
+//*[@id=\"container-content\"]/article/div/div[2]
+to
+//*[@id=\"container-content\"]/article/div/div[2]/img
+
+
+for file id DB512B5B375AD25830D6468632E83F65
+changed xpath from:
+//*[@id=\"article_page_lede_module\"]/div[1]
+to
+//*[@id=\"article_page_lede_module\"]/div[1]/img
+
+
+for file id 94D1409222A3475C7B218F88ECDA3666
+changed xpath from:
+//*[@id=\"container-content\"]/article/div/div[2]
+to
+//*[@id=\"container-content\"]/article/div/div[2]/img
+
+
+for file id E8875CCEC730280EA49DE211A03F1D45
+changed xpath from:
+//*[@id=\"content\"]/div[1]/header/div
+to
+//*[@id=\"content\"]/div[1]/header/div/img
+
+
+for file id D46E3413F37E00F3938085138F5F7105
+changed xpath from:
+//*[@id=\"attachment_1819\"]/a/span/span
+to
+//*[@id=\"attachment_1819\"]/a/img
+
+
+for file id 9B3830A0E653EACC7DDDC995F193FC8F
+changed xpath from:
+//*[@id=\"module-post-detail\"]/div[2]/img |
+to
+//*[@id=\"module-post-detail\"]/div[2]/img
+
+
+for file id 911EEAD7B5A07DC2E40F71D7B9F230D9
+changed xpath from:
+//*[@id=\"content\"]/div[1]/header/div | //*[@id=\"fragment-1\"]/article/section/div[1]/img | //*[@id=\"fragment-1\"]/article/section/div[2]/img | //*[@id=\"fragment-1\"]/article/section/div[3]/img
+to
+//*[@id=\"content\"]/div[1]/header/div/img | //*[@id=\"fragment-1\"]/article/section/div[1]/img | //*[@id=\"fragment-1\"]/article/section/div[2]/img | //*[@id=\"fragment-1\"]/article/section/div[3]/img
+
+
+for file id BD639B876C6A37363C08EA18CBCFE0C4
+changed xpath from:
+/html/body/div[4]/div/div[1]/div[1]
+to
+/html/body/div[4]/div/div[1]/div[1]//img
+
+
+for file id 386B61BD933F409E24D3ABF5389FF79D
+changed xpath from:
+//*[@id=\"container-content\"]/article/div/div[2]
+to
+//*[@id=\"container-content\"]/article/div/div[2]/img
+
+
+for file id A747F844C54B2DC8CCAE9A98061DDBB3
+changed xpath from:
+//*[@id=\"storyphoto\"]
+to
+//*[@id=\"imageBox\"]//img[1]
+
+
+for file id 101803876986501153F186D21AD49A46
+changed xpath from:
+//*[@id=\"slider-ajax-container\"]/div/div/ul/li[1]/img
+to
+//*[@id=\"slider-ajax-container\"]/div//img
+
+
+for file id 40E67DCEB8F3D2DE20CC7461FEA9E557
+changed xpath from:
+/html/body/div[1]/div[3]/div[3]/div/div[1]/div[2]/div/div/dl/dt/img
+to
+/html/body/div[3]/div[3]/div[3]/div/div[1]/div[2]/div/div/dl/dt/img
+
+
+for file id F0D253A02CDF02953CCF023B8F46578D
+changed xpath from:
+/img[0]
+to
+/html/body/div[8]/div[3]/div[1]/div[2]/div[1]/a/img
+
+
+for file id 700E93F01C95A6B71E47376416E26DB0
+changed xpath from:
+//*[@id=\"ctl00_ContentPlaceHolder1_m_contentLBL\"]/font/center/img
+to
+//*[@id=\"ctl00_ContentPlaceHolder1_m_pictureIMG\"]
+
+
+for file id D7702A590D8B448050BA0392FA48F4B9
+changed xpath from:
+//*[@id=\"main\"]/div[3]/div[1]/div[2]/table/tbody/tr/td[1]/div/img
+to
+//*[@id=\"main\"]/div[2]//tbody/tr/td[1]/div/img
+
+
+for file id B1E2A5272E780A2FF99A1D21E4CF1A6A
+changed xpath from:
+//*[@id=\"main\"]/div[3]/div[1]/div[2]/table/tbody/tr/td[1]/div/img
+to
+//*[@id=\"main\"]//tbody/tr/td[1]/div/img
+
+
+for file id 595B06FD62F303F128B944E90F4A75C7
+changed xpath from:
+//*[@id=\"main\"]/div[3]/div[1]/div[2]/table/tbody/tr/td[1]/div/img
+to
+//*[@id=\"main\"]/div/div/div/div//table/tbody/tr/td[1]/div/img
+
+
+for file id 3EEB86B6B59C683D69FD7B5F5EAB9CC7
+changed xpath from:
+/html/body/div[2]/section[1]/div/div[1]/section/article/div[1]/div/div/a[1]/img
+to
+//article/div//img
+  
+  
+for file id AB1FB53D3B76DA2305C34A32D676E9CA
+changed xpath from:
+//*[@id=\"main\"]/div[2]/p[8]/span/img
+to
+/html/body/div[2]/div[1]/div[1]/article/div/img
+  
+    
+for file id 51CB9F9EFE83CDE3CDFDD8183C29E9D4
+changed xpath from:
+/html/body/div[3]/div[1]/div/div/div[1]/div[3]/div[1]/a/img
+to
+//*[contains(@class, 'borderpic')]/img
+  
+      
+for file id 26BE735080C109E08F5081B9ADEF306F
+changed xpath from:
+/html/body/div[14]/div[9]/img
+to
+//*[contains(@class, 'news_image')]/img
+  
+  
+  
+duplicates:
+	{
+        "url": "http://www.nytimes.com/2012/12/22/us/politics/next-move-is-obamas-after-boehners-tax-plan-fails.html", 
+        "xpath": "//*[@id=\"article\"]/div[1]/div[1]/span/img", 
+        "id": "60B4471E1FB1E8E0D266D97071669CCB"
+    }
+and
+    {
+        "url": "http://www.nytimes.com/2012/12/22/us/politics/next-move-is-obamas-after-boehners-tax-plan-fails.html", 
+        "xpath": "//*[@id=\"article\"]/div[1]/div[4]/div[4]/div/a/span/img", 
+        "id": "60B4471E1FB1E8E0D266D97071669CCB"
+	}
+are combined into one
+	{
+		"url": "http://www.nytimes.com/2012/12/22/us/politics/next-move-is-obamas-after-boehners-tax-plan-fails.html", 
+        "xpath": "//*[@id=\"article\"]/div[1]/div[1]/span/img | //*[@id=\"article\"]/div[1]/div[4]/div[4]/div/a/span/img", 
+        "id": "60B4471E1FB1E8E0D266D97071669CCB"
+	}
+
+	
+corrections:
+
+test_sample/labels.json:
+WARNING
+auto-deleted by antivirus program
+REMOVED FROM labels.json
+{
+        "url": REMOVED, 
+        "id": "D4CF54E1E42640097A90A1731FCE2493"
+}, 
