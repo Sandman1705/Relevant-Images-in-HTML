@@ -106,7 +106,7 @@ Ciljni atribut određujemo na osnovu XPath izraza koje je dat za svaki dokument.
 
 \section{Rezultati klasifikacije}
 
-U datom skupu za treniranje od 600 dokumenata nalazi se 29835 slika od kojih su samo 935 relevantne slike. Broj nerelevantnih slika je veći od 96\%. Zbog toga koristimo F1 meru kao ocenu kvaliteta modela umesto preciznosti (\emph{engl. accuracy}).
+U datom skupu za treniranje od 600 dokumenata nalazi se 29835 slika od kojih su samo 935 relevantne slike. Broj nerelevantnih slika je veći od 96\%. Zbog toga koristimo F1 meru kao ocenu kvaliteta modela umesto tačnosti klasifikacije (\emph{engl. accuracy}).
 
 Kao najpouzdaniji metod se pokazao metod potpornih vektora (\emph{engl. SVM}). Za testiranje je korišćena biblioteka \textit{sklearn} \cite{sklearn}. Rezultati testiranja klasifikatora SVC nad skupom podataka za različite kernele se mogu videti na slici \ref{fig:svc-results}.
 
@@ -205,7 +205,7 @@ Osim u slučaju linearnog kernela, tumačenje obučenog modela metodom potpornih
 \section{Zaključak}
 \label{sec:zakljucak}
 
-Metod potpornih vektora se pokazao kao pouzdana i efikasna tehnika prilkom klasifikovanja relevantnih slika. Uz izbor atributa koji se mogu pouzdano izvući iz svake stranice kao i izbor odgovarajućih parametara dobija se visoka preciznost. 
+Metod potpornih vektora se pokazao kao pouzdana i efikasna tehnika prilkom klasifikovanja relevantnih slika. Uz izbor atributa koji se mogu pouzdano izvući iz svake stranice kao i izbor odgovarajućih parametara dobija se visoka tačnost klasifikacije. 
 
 \addcontentsline{toc}{section}{Literatura}
 %\appendix
