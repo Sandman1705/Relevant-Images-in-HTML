@@ -13,6 +13,7 @@ This project was written entirely in Python (Python 3). The following python lib
 + [lxml - XML and HTML with Python](https://lxml.de/)
 + [sklearn ](http://scikit-learn.org/stable/)
 + [scipy ](https://www.scipy.org/)
+
 As well as some other more common ones:
 + json
 + pandas
