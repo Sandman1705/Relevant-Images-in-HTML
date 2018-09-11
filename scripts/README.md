@@ -11,24 +11,24 @@ The output is a single CSV file that combines data from all HTML documents in a 
 
 ### Testing SVC models
 The following scripts are used for testing various parameters of SVC model:
-+ test_params_sample-1-svc_testing_kernels
-+ test_params_sample-2-svc_poly_testing_degrees
-+ test_params_sample-3-svc_poly_degree3_testing_gammas
-+ test_params_sample-4-svc_rbf_testing_C_and_gammas
-+ test_params_sample-5-svc_poly_cross_validation
-+ test_params_sample-6-svc_rbf_cross_validation
-+ test_params_train-1-svc_testing_kernels
-+ test_params_train-2-svc_poly_testing_degrees
-+ test_params_train-3-svc_poly_degree3_testing_gammas
-+ test_params_train-4-svc_rbf_testing_C_and_gammas
-+ test_params_train-5-svc_poly_cross_validation
-+ test_params_train-6-svc_rbf_cross_validation
++ test_params_sample-1-svc_testing_kernels.py
++ test_params_sample-2-svc_poly_testing_degrees.py
++ test_params_sample-3-svc_poly_degree3_testing_gammas.py
++ test_params_sample-4-svc_rbf_testing_C_and_gammas.py
++ test_params_sample-5-svc_poly_cross_validation.py
++ test_params_sample-6-svc_rbf_cross_validation.py
++ test_params_train-1-svc_testing_kernels.py
++ test_params_train-2-svc_poly_testing_degrees.py
++ test_params_train-3-svc_poly_degree3_testing_gammas.py
++ test_params_train-4-svc_rbf_testing_C_and_gammas.py
++ test_params_train-5-svc_poly_cross_validation.py
++ test_params_train-6-svc_rbf_cross_validation.py
 
 They are set to use already preprocessed data in */data/* directory. Same as before, because of the long runtime the resulting CSV files are already provided for *train* data set in */results/* directory. 
 
 ### Drawing graphs
 This scripts is used for generating graphs used in documentation:
-+ draw_graphs
++ draw_graphs.py
 
 It also relies on already generated data found in */results/* directory 
 

@@ -1,7 +1,9 @@
 import sys
 sys.path.insert(0, '../src')
 import os
-os.chdir(os.path.dirname(sys.argv[0]))
+dir_name = os.path.dirname(sys.argv[0])
+if(len(dir_name)!=0):
+	os.chdir(os.path.dirname(sys.argv[0]))
 
 from svc_models import poly_kernel_degree_test
 import pandas as pd

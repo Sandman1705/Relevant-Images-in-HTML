@@ -12,3 +12,4 @@ data/sample/*
 !data/test_public/labels.json
 !data/sample/labels.json
 src/__pycache__/
+scripts/*.csv
